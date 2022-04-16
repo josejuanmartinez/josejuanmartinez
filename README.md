@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juan Martinez, aka J, aka @josejuanmartinez
-- 👀 I’m interested in AI, NLP, Knowledge Engineering and Data Science in general
-- 🌱 I’m currently learning how to be a better Spark programmer :)
-- 💞️ I’m looking to collaborate on Hugging Face or Spark NLP modelling
+- 👀 I have devoted most of my professional years to AI, more specifically to NLP and Data Science in general
+- 🎮 My passion is videogames and I'm an WIP Game Developer
+- 🌱 I’m currently learning how to be a better C++ programmer
 - 📫 Find me at https://www.linkedin.com/in/jjmcarrascosa
 
 <!---
