@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Martinez, aka J, aka @josejuanmartinez
 - 👀 I have devoted most of my professional years to AI, more specifically to NLP and Data Science in general
-- 🎮 My passion is videogames and I'm an free-time Game Developer, currently looking for C++ / C# Videogames positions
+- 🎮 Now working in the Video Games industry
 - 🎮💬 I started MindCraft, an open-source engine to empower NPCs in video games! https://github.com/josejuanmartinez/mindcraft
 - 💬 I research about video games AI an integration of NLP into NPCs. Check my work here: https://github.com/josejuanmartinez/videogamesAI
 - And overall, I have a lot of AI-related projects. Have a look around!
