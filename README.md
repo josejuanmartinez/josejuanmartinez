@@ -10,42 +10,6 @@ Gameplay reels, the projects below with diagrams, and every public repository in
 
 ---
 
-## 🦝 Possum Archaeologists — what I work on day to day
-
-[![Possum Archaeologists](https://josejuanmartinez.github.io/assets/possumarch-banner.jpg)](https://josejuanmartinez.github.io/#studio)
-
-Two possum archaeologists have excavated a junkyard and are entirely convinced they have
-found priceless ancient relics. It is a rubber duck. It is a broken flip phone. They do not
-care — every piece of rubbish is solemnly catalogued under its museum name, and a bottle cap
-becomes the Crown of the Fizz King.
-
-Underneath the joke it is a tile-pile matcher: only uncovered relics can be tapped, three of
-a kind clear, and the seven-slot tray never gets any bigger. Dig sites are generated, so every
-run is a different shape and depth, and **Today's Trench** is one date-seeded dig shared by
-every player in the world that day.
-
-- **77KB of gzipped JavaScript** for the entire game — engine, interface and all. No Unity,
-  no three.js, no Phaser: raw WebGL and TypeScript on Bun.
-- **One draw call for most frames.** Sprites, particles and the whole UI share a single
-  texture atlas and a single batch.
-- **A skinned-mesh renderer written from scratch**, so the mascot is a real rigged 3D
-  character standing over a 2D board — 334KB for eleven animations, where baked sprite sheets
-  cost 574KB for one.
-- **A cheap Android phone is the floor**: 60fps target, zero allocations in the frame loop,
-  and a second shading path for GPUs that refuse the fast one.
-- **Live from day one:** weekly tournaments, a daily leaderboard, cloud saves, remote
-  difficulty tuning and churn funnels.
-- **Built by an agentic pipeline** — a concept artist sets the direction, a technical artist
-  generates sprites and drives image-to-3D character generation and rigging, an audio agent
-  writes the SFX and voice lines, a marketing agent captures gameplay and builds the store
-  set. Each on a least-privilege tool allowlist, each cost-gated before it may spend a cent,
-  and none of them allowed to call the work done — a read-only verifier does that.
-
-> It is a closed-source studio project, so there is no repository to link.
-> [Screenshots and a real gameplay reel are on the portfolio ↗](https://josejuanmartinez.github.io/#studio)
-
----
-
 ## 🎮 Games & gameplay AI
 
 | | |
