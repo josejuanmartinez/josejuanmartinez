@@ -1,11 +1,13 @@
 <h1>Hi, I’m Juan Martinez — <a href="https://github.com/josejuanmartinez">@josejuanmartinez</a></h1>
 
-**AI engineer and game developer.** ex-FRVR, ex-Fortis Games, now building casual viral
-games at a small studio — art, code and gameplay AI. Before games I spent most of my career
-in NLP and data science.
+**AI engineer and game developer.** ex-FRVR, ex-Fortis Games, specialized in Machine Learning.
 
-Five years of software engineering, four of linguistics, an MBA in educational-institution
+Now building casual viral games at a small studio — art, code and gameplay AI. Before games I spent most of my career
+in Classical ML, NLP and Data Science / Analytics.
+
+I have five years of software engineering, four of linguistics, an MBA in educational-institution
 management, and a master's in video-game development (C#, C++, Unity, Unreal).
+
 I speak Spanish, Russian, English and some Portuguese.
 
 ### 🏛️ [Portfolio → josejuanmartinez.github.io](https://josejuanmartinez.github.io/)
