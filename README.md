@@ -12,7 +12,6 @@ I speak Spanish, Russian, English and some Portuguese.
 
 ### 📫 Find me
 
-[Portfolio](https://josejuanmartinez.github.io/) ·
 [LinkedIn](https://www.linkedin.com/in/jjmcarrascosa) ·
 [GitHub](https://github.com/josejuanmartinez)
 
