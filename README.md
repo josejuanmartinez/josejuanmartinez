@@ -12,8 +12,7 @@ I speak Spanish, Russian, English and some Portuguese.
 
 ### 📫 Find me
 
-[LinkedIn](https://www.linkedin.com/in/jjmcarrascosa) ·
-[GitHub](https://github.com/josejuanmartinez)
+[LinkedIn](https://www.linkedin.com/in/jjmcarrascosa)
 
 <!---
 josejuanmartinez/josejuanmartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
